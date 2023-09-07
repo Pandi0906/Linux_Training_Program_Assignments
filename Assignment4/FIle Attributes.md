@@ -7,7 +7,7 @@
 
 
    
-3. Create a file exercise.txt and make it  executable.
+2. Create a file exercise.txt and make it  executable.
 
 ![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/fd579160-d242-48c8-9ba7-8677bfab88f4)
 
