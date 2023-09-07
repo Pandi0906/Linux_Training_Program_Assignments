@@ -7,3 +7,8 @@
    
 The error log can be appended to the exisiting content in the file by using 2>> symbol.if we use 2> symbol the existing content will be overided. if we use 2>> the new error log will be appended to the already existing content.
 ![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/22a14e0b-1590-4746-b9c9-36a3964ebc27)
+
+
+2. Create  files named test1, test2, testa, testb
+   How can you count the number of  files starting with test and then having only one digit in their name using only a single line command ?
+   ![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/8e9362c0-b656-4f59-ad13-7ed973847bc3)
