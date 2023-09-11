@@ -22,7 +22,8 @@
 
 5)Type this command on the terminal and see the output :
    du -ch *.txt
-![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/1ebfa245-86ea-48ed-8680-115564f760d5)
+![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/5a84cb4c-0b8d-461f-9926-9a82c516bdc4)
+
 
 6) Delete the user account "Duck" permanently along with its home folder.
 ![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/0d11a4b4-0a43-4c0d-b0ee-f6f7fd178fa3)
