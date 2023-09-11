@@ -8,3 +8,4 @@ How can you change the secondary command prompt from the default to your usernam
 
 2. How can you ensure that the mv command (used for renaming a file) always asks for permission before overwriting an existing destination file ? 
 [ Hint : use alias command ]
+![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/f85e570c-5136-47fa-a95e-31be272d1ce3)
