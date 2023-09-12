@@ -20,3 +20,7 @@
 
 ![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/c6db859c-9731-4797-90eb-13535b9f88f0)
 ![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/dc90767a-7063-43a1-b802-43e7760701d3)
+![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/ef46bd57-232a-4bcc-a7ff-8ed4e2225bf7)
+![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/e3afb129-3f87-4503-84cb-c917b1fb365f)
+
+![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/da4f7b1d-f10f-4a3a-afa6-1430c389322e)
