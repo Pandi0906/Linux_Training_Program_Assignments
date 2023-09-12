@@ -3,9 +3,11 @@
 ![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/13b4012d-0773-4ed1-9a0b-28e3ade4e8ae)
 ![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/b5e4e9e6-fe4b-4675-bfc3-135bb2affd92)
 ![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/14c2d2cd-00eb-41c0-9049-3f403e7c2708)
+![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/d272373c-d9ad-4587-abf1-19a7981aa056)
 
 ![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/568ff7d2-cc34-434f-9fdf-8ae82212de3b)
-![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/53e1b7d6-f83a-43da-9bea-147109252fa1)
+![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/89d7ff59-e01a-48a0-bb49-8f7326b50d5f)
+![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/b02a244e-6695-497a-84d9-b4fcd4d52d17)
 
 ![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/4863882c-fda1-48cf-bc63-0dd884ad6667)
 ![image](https://github.com/Pandi0906/Linux_Training_Program_Assignments/assets/65610375/c6db859c-9731-4797-90eb-13535b9f88f0)
